@@ -1,9 +1,11 @@
 const content = require("./content")
 
+// 除了 \r \n
 var reg = /./gm;
 
 var reg = /[a]/gm;
 
+// 数字
 var reg = /[0-9]/gm;
 
 // email
